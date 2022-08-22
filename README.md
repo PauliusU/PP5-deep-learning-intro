@@ -3,7 +3,7 @@
 [![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PauliusU/PP5-deep-learning-intro/blob/master/PP5_deep_learning_intro.ipynb)
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/PauliusU/PP5-deep-learning-intro/blob/master/LICENSE)
 
-Practical Project 4 (PP4) for Artificial Intelligence studies to solidify **deep learning** basics by practicing.
+Practical Project 5 (PP5) for Artificial Intelligence studies to solidify **deep learning** basics by practicing.
 Project creates deep neural networks using two frameworks `Keras` and `PyTorch` and compares their syntaxes.
 
 ## Usage
