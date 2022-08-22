@@ -54,7 +54,6 @@ pipenv run jupyter notebook PP5_deep_learning_intro.ipynb
 - [ ] Find whichever dataset you want for polynomial multiple regression or non-linearly separable classification (you can use/generate the same scikit/python dataset or find real one).
 - [ ] Train & tune a deep neural network using two frameworks (choose from TF/keras, pytorch, fast.ai).
 - [ ] Describe in a few sentences (not fewer than 5) which framework you liked best and why.
-- [ ] Provide the results as a collab notebook or github link with notebook for easy verification.
+- [ ] Provide the results as a Google Colab notebook or GitHub link with notebook for easy verification.
 
 Bonus: Include decision boundary / regression line plotting.
-
