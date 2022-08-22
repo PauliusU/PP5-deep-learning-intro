@@ -4,6 +4,7 @@
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/PauliusU/PP5-deep-learning-intro/blob/master/LICENSE)
 
 Practical Project 4 (PP4) for Artificial Intelligence studies to solidify **deep learning** basics by practicing.
+Project creates deep neural networks using two frameworks `Keras` and `PyTorch` and compares their syntaxes.
 
 ## Usage
 
