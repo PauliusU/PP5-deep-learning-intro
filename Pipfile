@@ -5,7 +5,14 @@ name = "pypi"
 
 [packages]
 jupyter = "*"
-seaborn = "*"
+torch = "~=1.12.1"
+keras = "~=2.8.0"
+numpy = "*"
+tqdm = "*"
+pandas = "*"
+matplotlib = "*"
+scikit-learn = "~=1.0.2"
+tensorflow = "~=2.8.2"
 
 [dev-packages]
 
